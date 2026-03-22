@@ -1,0 +1,3 @@
+Echipa 2 se ocupa de implementarea interfetei de editare si randare 2D a layout-ului casei smart, precum si a camerelor, adaugarea produselor smart si a bugetului, precum si randarea auto-buildurilor generate.
+https://trello.com/invite/b/69bedd50ccf006f69aacc686/ATTI727e5e2cd025b89b0129535b16f3b6c927AB18A7/echipa-2
+^ trello, unde se afla backlog-ul si informatii despre progres si obiectivele echipei.
